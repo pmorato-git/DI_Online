@@ -1,5 +1,9 @@
 package clases;
 
+/**
+ * @author Pepe
+ * @version 2.0
+ */
 public class Circulo {
 	private int id;
 	private String nombre;
